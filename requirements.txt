@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+streamlit
+ultralytics
+opencv-python-headless
+python-multipart
+torch

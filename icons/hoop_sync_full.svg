@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 20 650 160" width="650" height="200">
+  <g transform="translate(20, 0)">
+    <rect x="50" y="50" width="20" height="100" rx="5" fill="#FFFFFF"/>
+    <rect x="130" y="50" width="20" height="100" rx="5" fill="#FFFFFF"/>
+    <rect x="50" y="90" width="100" height="20" fill="#FFFFFF"/>
+    
+    <circle cx="100" cy="100" r="35" fill="#121212" stroke="#FF7F50" stroke-width="6"/>
+    <path d="M100 65 V135 M65 100 H135 M75 75 A 25 25 0 0 1 75 125 M125 75 A 25 25 0 0 0 125 125" stroke="#FF7F50" stroke-width="3" fill="none"/>
+  </g>
+  
+  <text x="180" y="128" font-family="system-ui, -apple-system, sans-serif" font-size="75" font-weight="800" letter-spacing="-2">
+    <tspan fill="#FFFFFF">oop </tspan>
+    <tspan fill="#FF7F50">Sync</tspan>
+  </text>
+</svg>
